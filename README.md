@@ -1,4 +1,4 @@
-"# Inverse-Kinematics" 
+# Inverse-Kinematics
 
 Uses gradient descent with the pseudoinverse of the jacobian to solve the inverse kinematic problem for finding robot angles to reach a point in space. 
 
